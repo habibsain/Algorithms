@@ -74,4 +74,6 @@ int main()
     {
 	    printf("%d\n", array[i]);
     }
+    printf("The median is given by:\n");
+    printf("%d\n", array[(num - 1)/2]);
 }
